@@ -11,7 +11,7 @@ I passi da svolgere sono i seguenti:
 - Cliccare sulla barra del nome del file
 - Scrivere prima del nome -> nomeCartella/
 
-![Screen1](https://github.com/RiccardoZag/HowToCreateFolders/blob/main/Tutorial_ITA/Screen1.png)
+![Screen4](https://github.com/RiccardoZag/HowToCreateFolders/blob/main/Tutorial_ITA/Screen4.png)
 
 ![Screen2](https://github.com/RiccardoZag/HowToCreateFolders/blob/main/Tutorial_ITA/Screen2.png)
 
