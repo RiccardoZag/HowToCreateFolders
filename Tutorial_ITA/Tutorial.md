@@ -8,7 +8,7 @@ Bene, in questo file scoprirete come si creano delle cartelle su github.✅
 I passi da svolgere sono i seguenti:
 - Cliccare su un vostro file
 - Premere l'opzione edit
-![Screenshot 2023-04-08 194859](/Tutorial_ITA/Screenshot 2023-04-08 194859.png)
+[Screenshot 2023-04-08 194859](/Tutorial_ITA/Screenshot 2023-04-08 194859.png)
 - Cliccare sulla barra del nome del file
 - Scrivere prima del nome -> nomeCartella/
 
