@@ -11,5 +11,11 @@ The steps to do are the following:
 - Click on the file name bar
 - Write **before** the name -> "foldername"/
 
+![Screen4](https://github.com/RiccardoZag/HowToCreateFolders/blob/main/Tutorial_ITA/Screen4.png)
+
+![Screen2](https://github.com/RiccardoZag/HowToCreateFolders/blob/main/Tutorial_ITA/Screen2.png)
+
+![Screen3](https://github.com/RiccardoZag/HowToCreateFolders/blob/main/Tutorial_ITA/Screen3.png)
+
 In this way you will have created a new folder in the repository and automatically loaded the file inside.
 Repeat the same procedure with the other files. ✅
