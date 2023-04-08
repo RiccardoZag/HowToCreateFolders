@@ -19,5 +19,6 @@ The steps to do are the following:
 
 In this way you will have created a new folder in the repository and automatically loaded the file inside.
 Repeat the same procedure with the other files. ✅
+---
 **REMEMBER:**
 Now to upload the files directly into the folder, click on it and then on the Add File option.
