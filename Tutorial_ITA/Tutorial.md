@@ -4,7 +4,6 @@ Molto semplice direte voi, basta creare delle cartelle all'interno del main bran
 
 Bene, in questo file scoprirete come si creano delle cartelle su github.✅
 
----
 ## Creazione cartella
 I passi da svolgere sono i seguenti:
 - Cliccare su un vostro file
