@@ -18,4 +18,4 @@ I passi da svolgere sono i seguenti:
 ![Screen3](https://github.com/RiccardoZag/HowToCreateFolders/blob/main/Tutorial_ITA/Screen3.png)
 
 In questo modo avrete creato una nuova cartella nella repository e inserito automaticamente il file all'interno.
-Ripetere lo stesso procedimento con gli altri file. ✅
+Ripetere lo stesso procedimento con gli altri file.✅
